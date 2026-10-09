@@ -1,2 +1,2 @@
 # test
-nur ein test
+nur ein Test.
